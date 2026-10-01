@@ -5,7 +5,7 @@
 The hospital emergency room management wanted to analyze annual operational data for the emergency department. The goal was to help leadership and medical administrators understand patient flow, monitor wait times, evaluate department workloads, and improve overall emergency healthcare delivery across 2023 and 2024.
 
 ## Dataset used
-* [Hospital Emergency Room Dataset Link](#) *(Add your Excel file link here)*
+- <a href="https://github.com/AsiyaSaeed/hospital-er-interactive-dashboard-excel/blob/main/Interactive%20excel%20dashboard.xlsx">Hospital dashbaord</a>
 
 ## Questions (KPIs)
 * What is the total number of patients visiting the emergency room, and what are their monthly and yearly trends?
@@ -23,13 +23,6 @@ The hospital emergency room management wanted to analyze annual operational data
 * Created pivot tables to aggregate metrics based on core business and operational questions.
 * Designed comprehensive pivot charts and dynamic KPI summary cards.
 * Combined all components into a single interactive dashboard layout equipped with Month and Year **slicers**.
-
-## Dashboard
-
-### Overview of the Dashboard
-![Hospital ER Dashboard](<img width="817" height="353" alt="Screenshot 2026-10-01 202510" src="https://github.com/user-attachments/assets/08975629-2944-4a67-9029-d63d8dda4219" />
-)
-
 ---
 
 ## Project Insights
